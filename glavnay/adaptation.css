@@ -1,0 +1,124 @@
+@media only screen and (max-width: 1200px)   {
+  .background-anime {
+      padding-bottom: 10px;
+      background-color: #000000;
+      border-radius: 13px;
+      margin-top: 15px;
+      width: 750px;
+      height: 600px;
+    }
+
+    .button-anime {
+    padding: 12px 20px;
+    border-radius: 20px;
+    background-color: #5F9EA0;
+    border: 2px solid #5F9EA0;
+    color: #5F9EA0;
+    font-weight: bold;
+    transition: all .5s;
+    margin-left: 620px;
+    margin-top: 10px;
+    }
+
+    .lan {
+    text-indent: 450px;
+    color: white;
+    }
+  .page-1 {
+    padding: 8px 20px;
+    border-radius: 20px;
+    background-color: #A9A9A9;
+    border: 2px solid #696969;
+    color: #ffff;
+    font-weight: bold;
+    transition: all .5s;
+    margin-left: 440px;
+    margin-right: 10px;
+}
+
+.page-2 {
+    padding: 8px 20px;
+    border-radius: 20px;
+    background-color: #A9A9A9;
+    border: 2px solid #696969;
+    color: #ffff;
+    font-weight: bold;
+    transition: all .5s;
+    margin-left: 440px;
+    margin-right: 10px;
+    margin-top: 10px;
+  }
+.anime-icon {
+    border-radius: 15px;
+    border: 3px solid #ffff;
+    margin-top: 80px;
+    height: 400px;
+  }
+
+  /**/
+@media only screen and (max-width: 992px)   {
+  .container-anime {
+    width: auto;
+    max-width: 1024px;
+    padding: 0 150px;
+    margin: 0 auto;
+    margin-left: -50px;
+    position: relative;
+    flex-direction: column;
+    display: flex;
+
+}
+
+.page-1 {
+    padding: 14px 30px;
+    border-radius: 30px;
+    background-color: #A9A9A9;
+    border: 2px solid #696969;
+    color: #ffff;
+    font-weight: bold;
+    transition: all .5s;
+    margin-left: 420px;
+    margin-right: 10px;
+}
+.page-2 {
+    padding: 14px 30px;
+    border-radius: 30px;
+    background-color: #A9A9A9;
+    border: 2px solid #696969;
+    color: #ffff;
+    font-weight: bold;
+    transition: all .5s;
+    margin-left: 420px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.button-anime {
+    padding: 17px 40px;
+    border-radius: 30px;
+    background-color: #5F9EA0;
+    border: 2px solid #5F9EA0;
+    color: #5F9EA0;
+    font-weight: bold;
+    transition: all .5s;
+    margin-left: 580px;
+    margin-top: 10px;
+}
+p {
+  font-size:18px;
+}
+a {
+  font-size:17px;
+}
+}
+  /**/
+@media only screen and (max-width: 768px)   {
+
+}
+  /**/
+@media only screen and (max-width: 480px)   {
+
+}
+
+@media only screen and (max-width: 320px)   {
+
+}
